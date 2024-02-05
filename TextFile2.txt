@@ -2,3 +2,7 @@ This is text file 2.
 
 File 2 Change
 
+(Branch2, Student 2, Mary) 
+
+Working in Branch 2. Adding header to main page
+
